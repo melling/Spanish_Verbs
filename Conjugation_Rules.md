@@ -24,6 +24,8 @@
 
 http://www.h4labs.com/lang/es/verb_tenses/preterite.html
 
+---
+
 ### Imperfect Past Regular
 
 http://www.h4labs.com/lang/es/verb_tenses/imperfect_past_regular.html
