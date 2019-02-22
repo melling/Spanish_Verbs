@@ -1,11 +1,20 @@
 ## Conjugation Rules
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-### Present Tense Regular
+---
 
-#### -ar
+### Present Tense 
+
+#### Regular -ar
 
 
-#### -er
+#### Regular -er
 
-#### -ir
+#### Regular -ir
+
+---
