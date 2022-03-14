@@ -11,7 +11,7 @@
 
 ---
 
-### Present Tense 
+### Present Tense
 
 #### Regular -ar
 
@@ -38,6 +38,7 @@ There are 3 irregular verbs in the imperfect tense. They are ir, ser, and ver.
 
 
 ---
+
 ### Simple Future
 
 The simple future tense is constructed with the verb ir + infinitive
